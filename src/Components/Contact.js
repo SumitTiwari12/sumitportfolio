@@ -44,7 +44,7 @@ form.addEventListener('submit', e => {
                         {/* <a href="https://github.com/SumitTiwari12"><AiOutlineGithub className='icon-color'/></a> */}
                     </div>
 
-                    <a href="" download className='btn btn2'>Download CV</a>
+                    <a href="https://docs.google.com/document/d/17hro7ZCGnjGT-kbs0fv1OOmNFT7JkF68_TEheKnnbLE/edit?usp=sharing" download className='btn btn2'>Download CV</a>
                 </div>
                 <div className="contact-right">
                     <form name='submit-to-google-sheet'>
