@@ -11,7 +11,7 @@ import Skills from "./Components/Skill"
 AOS.init({
   easing: "ease",
   duration: 1200,
-  // once: true,
+  once: true,
 });
 
 function App() {
