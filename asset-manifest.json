@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sumitportfolio/static/css/main.ebb8838d.css",
-    "main.js": "/sumitportfolio/static/js/main.d9c77edf.js",
+    "main.js": "/sumitportfolio/static/js/main.2a65df25.js",
     "static/js/787.bab5110c.chunk.js": "/sumitportfolio/static/js/787.bab5110c.chunk.js",
     "static/media/bg1.jpg": "/sumitportfolio/static/media/bg1.ab6f6ad3b90062b81324.jpg",
     "index.html": "/sumitportfolio/index.html",
     "main.ebb8838d.css.map": "/sumitportfolio/static/css/main.ebb8838d.css.map",
-    "main.d9c77edf.js.map": "/sumitportfolio/static/js/main.d9c77edf.js.map",
+    "main.2a65df25.js.map": "/sumitportfolio/static/js/main.2a65df25.js.map",
     "787.bab5110c.chunk.js.map": "/sumitportfolio/static/js/787.bab5110c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb8838d.css",
-    "static/js/main.d9c77edf.js"
+    "static/js/main.2a65df25.js"
   ]
 }
