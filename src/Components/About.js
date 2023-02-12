@@ -21,7 +21,7 @@ function About() {
               </div>
               
               I'm looking to Collaborate on any PROJECT which solves any real-life problem.</p>
-              <a href="https://drive.google.com/file/d/1-ZixYVpFPr44vZ7ZmcWiUhRs39nrypA4/view?usp=share_link" className='btn' download>UI/UX Certifiacte</a>
+              <a href="https://drive.google.com/file/d/1-ZixYVpFPr44vZ7ZmcWiUhRs39nrypA4/view?usp=share_link" className='btn'></a>UI/UX Certifiacte</a>
 
               {/* <div className="tab-titles" data-aos="fade-right">
                 <p className='tab-links active-link'>Skilles</p>
